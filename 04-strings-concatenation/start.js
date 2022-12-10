@@ -10,3 +10,8 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
+const name = 'Anton'
+const lastName = 'Kot'
+const profession = 'solver'
+const sum = `Меня звать ${name} ${lastName} я ${profession}`
+console.log(sum)
